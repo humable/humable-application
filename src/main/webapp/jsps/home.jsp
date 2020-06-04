@@ -21,7 +21,7 @@
 		Martha Halli, Above Axis Bank, Beside Meghana Foods,
 		Bangalore.
 		+91-9980923226,
-		9738909550
+		8861528452
 		<br>
 		<a href="mailto:devopstrainingblr@gmail.com">Mail to Mithun Technologies</a>
 	</span>
